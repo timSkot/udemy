@@ -25,8 +25,8 @@ const movieDB = {
       },
       poster = document.querySelector('.promo__bg'),
       genre = poster.querySelector('.promo__genre'),
-      movieList = document.querySelector('.promo__interactive-list');
-      // genres = movieList.querySelector('.promo__interactive-item');
+      movieList = document.querySelector('.promo__interactive-list'),
+      genres = genresWrapper.querySelector('.promo__interactive-item');
 
 const adv = document.querySelectorAll('.promo__adv img');
 
@@ -36,13 +36,3 @@ adv.forEach(item => {
 
 genre.textContent = 'драма';
 poster.style.backgroundImage = 'url("img/bg.jpg")';
-movieList.innerHTML = '';
-movieDB.movies.sort();
-movieDB.movies.forEach((film, i) => {
-  movieList.innerHTML += `
-  <li class="promo__interactive-item">
-    ${i + 1} ${film}
-    <div class="delete"></div>
-  </li>
-  `;
-});
