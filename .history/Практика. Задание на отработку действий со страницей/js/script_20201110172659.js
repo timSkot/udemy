@@ -45,10 +45,6 @@ document.addEventListener('DOMContentLoaded', () => {
         newFilm = `${newFilm.substring(0, 22)}...`;
       }
 
-      if (favorite) {
-        console.log("Добавляем новый фильм");
-      }
-
       movieDB.movies.push(newFilm);
       sortArr(movieDB.movies);
       createMovieList(movieDB.movies, movieList);

@@ -45,10 +45,6 @@ document.addEventListener('DOMContentLoaded', () => {
         newFilm = `${newFilm.substring(0, 22)}...`;
       }
 
-      if (favorite) {
-        console.log("Добавляем новый фильм");
-      }
-
       movieDB.movies.push(newFilm);
       sortArr(movieDB.movies);
       createMovieList(movieDB.movies, movieList);
@@ -75,7 +71,6 @@ document.addEventListener('DOMContentLoaded', () => {
   
   function createMovieList(films, parent) {
     parent.innerHTML = '';
-    sortArr(films);
 
     films.forEach((film, i) => {
       parent.innerHTML += `
@@ -91,12 +86,13 @@ document.addEventListener('DOMContentLoaded', () => {
         btn.parentElement.remove();
         movieDB.movies.splice(i, 1);
         
-        createMovieList(films, parent);
+        createMovieList(movieDB.movies, parent);
       });
     });
   }
 
   makeChanges();
+  sortArr(movieDB.movies);
   deleteAdv(adv);
   createMovieList(movieDB.movies, movieList);
 });

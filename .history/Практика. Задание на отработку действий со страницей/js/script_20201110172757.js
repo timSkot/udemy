@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', () => {
       }
 
       if (favorite) {
-        console.log("Добавляем новый фильм");
+        console.log("")
       }
 
       movieDB.movies.push(newFilm);
