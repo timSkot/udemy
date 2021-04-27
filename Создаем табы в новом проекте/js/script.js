@@ -1,6 +1,7 @@
 'use strict';
 
 window.addEventListener('DOMContentLoaded', () => {
+    // tabs
     const tabs = document.querySelectorAll('.tabheader__item'),
           tabsContent = document.querySelectorAll('.tabcontent'),
           tabsParent = document.querySelector('.tabheader__items');
@@ -36,4 +37,14 @@ window.addEventListener('DOMContentLoaded', () => {
             });
         }
     });
+
+    // timer
+    const deadLine = '2020-05-11';
+
+    function getTimeRemaining(endtime) {
+        const t = Date.parse(endtime) - Date.parse(new Date()),
+                days = Math.floor(t / (1000 * 60 * 60 * 24)),
+                hours = Math.floor((t / 1000 * 60 * 60) % 24),
+        
+    }
 });

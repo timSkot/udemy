@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bacafb5a-4c13-46e7-9798-db486776d84c" name="Default Changelist" comment="Работа с датами">
-      <change afterPath="$PROJECT_DIR$/Создаем таймер обратного отсчета на сайте/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Создаем таймер обратного отсчета на сайте/css/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Создаем таймер обратного отсчета на сайте/icons/Group 5.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Создаем таймер обратного отсчета на сайте/icons/facebook.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Создаем таймер обратного отсчета на сайте/icons/instagram.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Создаем таймер обратного отсчета на сайте/icons/left.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Создаем таймер обратного отсчета на сайте/icons/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Создаем таймер обратного отсчета на сайте/icons/right.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Создаем таймер обратного отсчета на сайте/icons/switch.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Создаем таймер обратного отсчета на сайте/icons/veg.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Создаем таймер обратного отсчета на сайте/img/slider/food-12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Создаем таймер обратного отсчета на сайте/img/slider/olive-oil.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Создаем таймер обратного отсчета на сайте/img/slider/paprika.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Создаем таймер обратного отсчета на сайте/img/slider/pepper.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Создаем таймер обратного отсчета на сайте/img/tabs/elite.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Создаем таймер обратного отсчета на сайте/img/tabs/hamburger.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Создаем таймер обратного отсчета на сайте/img/tabs/post.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Создаем таймер обратного отсчета на сайте/img/tabs/vegy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Создаем таймер обратного отсчета на сайте/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Создаем таймер обратного отсчета на сайте/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Создаем табы в новом проекте/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Создаем табы в новом проекте/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +68,7 @@
       <workItem from="1618645620265" duration="619000" />
       <workItem from="1618726475800" duration="1459000" />
       <workItem from="1618735701545" duration="1433000" />
+      <workItem from="1619534186386" duration="22000" />
     </task>
     <task id="LOCAL-00001" summary="Работа с датами">
       <created>1618497524303</created>
