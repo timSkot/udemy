@@ -3,11 +3,11 @@
 class Rectangle {
     constructor(height, width) {
         this.height = height;
-        this.widht = width;
+        this.width = width;
     }
 
     calcArea() {
-        return this.height * this.widht;
+        return this.height * this.width;
     }
 }
 

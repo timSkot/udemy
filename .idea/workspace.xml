@@ -5,6 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bacafb5a-4c13-46e7-9798-db486776d84c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Используем классы в реальной работе/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Используем классы в реальной работе/css/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Используем классы в реальной работе/icons/Group 5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Используем классы в реальной работе/icons/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Используем классы в реальной работе/icons/instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Используем классы в реальной работе/icons/left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Используем классы в реальной работе/icons/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Используем классы в реальной работе/icons/right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Используем классы в реальной работе/icons/switch.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Используем классы в реальной работе/icons/veg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Используем классы в реальной работе/img/slider/food-12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Используем классы в реальной работе/img/slider/olive-oil.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Используем классы в реальной работе/img/slider/paprika.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Используем классы в реальной работе/img/slider/pepper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Используем классы в реальной работе/img/tabs/elite.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Используем классы в реальной работе/img/tabs/hamburger.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Используем классы в реальной работе/img/tabs/post.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Используем классы в реальной работе/img/tabs/vegy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Используем классы в реальной работе/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Используем классы в реальной работе/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.history/Async, defer, динамические скрипты/index_20201112171849.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.history/Async, defer, динамические скрипты/index_20201112171946.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.history/Async, defer, динамические скрипты/index_20201112171951.html" beforeDir="false" />
@@ -1530,7 +1550,7 @@
       <change beforePath="$PROJECT_DIR$/.history/Создаем табы в новом проекте/js/script_20210122171111.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.history/Создаем табы в новом проекте/js/script_20210122171112.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклы/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Циклы/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Классы (ES6)/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Классы (ES6)/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1572,7 +1592,10 @@
       <recent name="C:\Projects\udemy\Создаем таймер обратного отсчета на сайте" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.main.js">
+  <component name="RunManager" selected="Node.js.main.js (1)">
+    <configuration name="main.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Классы (ES6)/main.js" working-dir="$PROJECT_DIR$/Классы (ES6)">
+      <method v="2" />
+    </configuration>
     <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Контекст вызова. This/main.js" working-dir="$PROJECT_DIR$/Контекст вызова. This">
       <method v="2" />
     </configuration>
@@ -1584,6 +1607,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.main.js (1)" />
         <item itemvalue="Node.js.main.js" />
         <item itemvalue="Node.js.script.js (1)" />
         <item itemvalue="Node.js.script.js" />
@@ -1619,7 +1643,7 @@
       <workItem from="1619619750024" duration="593000" />
       <workItem from="1619624020219" duration="3628000" />
       <workItem from="1619877109575" duration="5891000" />
-      <workItem from="1619948220227" duration="2442000" />
+      <workItem from="1619948220227" duration="7672000" />
     </task>
     <task id="LOCAL-00001" summary="Работа с датами">
       <created>1618497524303</created>
@@ -1663,7 +1687,28 @@
       <option name="project" value="LOCAL" />
       <updated>1619884693485</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Контекст вызова. This">
+      <created>1619950710049</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1619950710049</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Контекст вызова. This">
+      <created>1619950899158</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1619950899158</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Классы (ES6)">
+      <created>1619958330120</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1619958330120</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1687,6 +1732,8 @@
     <MESSAGE value="Создаем модальное окно" />
     <MESSAGE value="Модификации модального окна" />
     <MESSAGE value="Функции-конструкторы" />
-    <option name="LAST_COMMIT_MESSAGE" value="Функции-конструкторы" />
+    <MESSAGE value="Контекст вызова. This" />
+    <MESSAGE value="Классы (ES6)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Классы (ES6)" />
   </component>
 </project>
