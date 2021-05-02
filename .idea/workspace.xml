@@ -1530,6 +1530,7 @@
       <change beforePath="$PROJECT_DIR$/.history/Создаем табы в новом проекте/js/script_20210122171111.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.history/Создаем табы в новом проекте/js/script_20210122171112.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Циклы/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Циклы/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1571,12 +1572,20 @@
       <recent name="C:\Projects\udemy\Создаем таймер обратного отсчета на сайте" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.main.js">
+    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Контекст вызова. This/main.js" working-dir="$PROJECT_DIR$/Контекст вызова. This">
+      <method v="2" />
+    </configuration>
+    <configuration name="script.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Циклы/script.js" working-dir="$PROJECT_DIR$/Циклы">
+      <method v="2" />
+    </configuration>
     <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Функции-конструкторы/script.js" working-dir="$PROJECT_DIR$/Функции-конструкторы">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.main.js" />
+        <item itemvalue="Node.js.script.js (1)" />
         <item itemvalue="Node.js.script.js" />
       </list>
     </recent_temporary>
@@ -1609,7 +1618,8 @@
       <workItem from="1619583196480" duration="596000" />
       <workItem from="1619619750024" duration="593000" />
       <workItem from="1619624020219" duration="3628000" />
-      <workItem from="1619877109575" duration="5046000" />
+      <workItem from="1619877109575" duration="5891000" />
+      <workItem from="1619948220227" duration="2442000" />
     </task>
     <task id="LOCAL-00001" summary="Работа с датами">
       <created>1618497524303</created>
@@ -1646,7 +1656,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619883717591</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Функции-конструкторы">
+      <created>1619884693485</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1619884693485</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1669,6 +1686,7 @@
     <MESSAGE value="Параметры документа, окна и работа с ними" />
     <MESSAGE value="Создаем модальное окно" />
     <MESSAGE value="Модификации модального окна" />
-    <option name="LAST_COMMIT_MESSAGE" value="Модификации модального окна" />
+    <MESSAGE value="Функции-конструкторы" />
+    <option name="LAST_COMMIT_MESSAGE" value="Функции-конструкторы" />
   </component>
 </project>
